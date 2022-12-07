@@ -55,12 +55,5 @@ public static void main(String [] args)
 {
 RetailItem s = new RetailItem("ball",4,34.5);
 s.display();
-
-
-
-
-
-
-
 }
 }
